@@ -22,7 +22,8 @@
 <br/>
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliwang1&layout=compact&theme=vue)
-<br/>
+<!--
 <br/>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?&theme=vue&username=liliwang1&repo=codeup-web-exercises)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?&theme=vue&username=liliwang1&repo=codeup-java-exercises)
+-->
