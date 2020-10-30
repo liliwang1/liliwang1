@@ -19,4 +19,5 @@
 - ⚡ Fun fact: volunteer in animal shelter
 
 ![liliwang1's github stats](https://github-readme-stats.vercel.app/api?username=liliwang1&count_private=true&show_icons=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliwang1&layout=compact)](https://github.com/liliwang1/github-readme-stats)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliwang1&layout=compact)
