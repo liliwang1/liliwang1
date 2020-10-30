@@ -12,12 +12,13 @@
 <!--
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: li.wang876@gmail.com.  Drop a line~~~
+- 📫 How to reach me: li.wang876@gmail.com.  Drop a line~
 <!--
 - 😄 Pronouns: ...
 -->
 - ⚡ Fun fact: volunteer in animal shelter
 
-![liliwang1's github stats](https://github-readme-stats.vercel.app/api?username=liliwang1&count_private=true&show_icons=true&hide=stars)
+![liliwang1's github stats](https://github-readme-stats.vercel.app/api?username=liliwang1&count_private=true&show_icons=true&theme=vue&hide=stars)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliwang1&layout=compact)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliwang1&layout=compact&theme=vue)
