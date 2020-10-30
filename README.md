@@ -8,7 +8,7 @@
 -->
 - 🌱 I’m currently learning full-stack web development
 - 👯 I’m looking to collaborate on frontend frameworks
-- 🤔 I’m looking for help with job seeking
+- 🤔 I’m looking for a Junior Developer position
 <!--
 - 💬 Ask me about ...
 -->
