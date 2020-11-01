@@ -16,7 +16,7 @@
 <!--
 - 😄 Pronouns: ...
 -->
-- ⚡ Fun fact: volunteer in animal shelter
+- ⚡ Fun fact: volunteer in an animal shelter
 
 ![liliwang1's github stats](https://github-readme-stats.vercel.app/api?username=liliwang1&count_private=true&show_icons=true&theme=vue&hide=stars)
 <br/>
