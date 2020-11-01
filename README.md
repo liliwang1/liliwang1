@@ -16,11 +16,10 @@
 - 😄 Pronouns: ...
 -->
 
-
-![liliwang1's github stats](https://github-readme-stats.vercel.app/api?username=liliwang1&count_private=true&show_icons=true&theme=vue&hide=stars)
+[![liliwang1's github stats](https://github-readme-stats.vercel.app/api?username=liliwang1&count_private=true&show_icons=true&theme=vue&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliwang1&layout=compact&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliwang1&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <br/>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?&theme=vue&username=liliwang1&repo=codeup-web-exercises)
