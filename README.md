@@ -9,14 +9,13 @@
 - 🌱 I’m currently learning full-stack web development
 - 👯 I’m looking to collaborate on frontend frameworks
 - 🤔 I’m looking for a Junior Developer position
+- 📫 How to reach me: li.wang876@gmail.com.  Drop a line~
+- ⚡ Fun fact: volunteer in an animal shelter
 <!--
 - 💬 Ask me about ...
--->
-- 📫 How to reach me: li.wang876@gmail.com.  Drop a line~
-<!--
 - 😄 Pronouns: ...
 -->
-- ⚡ Fun fact: volunteer in an animal shelter
+
 
 ![liliwang1's github stats](https://github-readme-stats.vercel.app/api?username=liliwang1&count_private=true&show_icons=true&theme=vue&hide=stars)
 <br/>
