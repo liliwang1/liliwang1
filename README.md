@@ -6,11 +6,11 @@
 <!--
 - 🔭 I’m currently working on
 -->
-- 🌱 I’m currently learning full-stack web development
-- 👯 I’m looking to collaborate on frontend frameworks
-- 🤔 I’m looking for a Junior Developer position
-- 📫 How to reach me: li.wang876@gmail.com.  Drop a line~
-- ⚡ Fun fact: volunteer in an animal shelter
+- 🌱  I’m currently learning full-stack web development
+- 👯  I’m looking to collaborate on frontend frameworks
+- 🤔  I’m looking for a Junior Developer position
+- 📫  How to reach me: li.wang876@gmail.com.  Drop a line~
+- ⚡  Fun fact: volunteer in an animal shelter
 <!--
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
