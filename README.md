@@ -9,7 +9,9 @@
 - 🌱  I’m currently learning full-stack web development
 - 👯  I’m looking to collaborate on frontend frameworks
 - 🤔  I’m looking for a Junior Developer position
-- 📫  How to reach me: li.wang876@gmail.com.  Drop a line~
+- 📫  How to reach me: li.wang876@gmail.com
+<a href="https://linkedin.com/in/lili-wang1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="..." height="30" width="40" /></a>
+
 - ⚡  Fun fact: volunteer in an animal shelter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliwang1&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
@@ -23,6 +25,7 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?&theme=vue&username=liliwang1&repo=codeup-java-exercises)
 -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liliwang1&" alt="liliwang1" /></p> -->
+
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
