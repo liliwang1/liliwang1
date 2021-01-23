@@ -6,7 +6,7 @@
 <!--
 - 🔭 I’m currently working on
 -->
-- 🌱  I’m currently learning Golang and C#
+- 🌱  I’m currently learning Go and C#
 - 👯  I’m looking to collaborate on frontend frameworks
 - 🤔  I’m looking for a Junior Developer position
 - 📫  How to reach me: li.wang876@gmail.com
