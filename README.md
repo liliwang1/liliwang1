@@ -6,8 +6,8 @@
 <!--
 - 🔭 I’m currently working on
 -->
-- 🌱  I’m currently learning cloud computing and DevOps
-<!-- - 👯  I’m looking to collaborate on frontend frameworks
+<!-- - 🌱  I’m currently learning cloud computing and DevOps
+- 👯  I’m looking to collaborate on frontend frameworks
 - 🤔  I’m looking for a Junior Developer position
 - 📫  How to reach me: li.wang876@gmail.com -->
 <br><br><a href="https://linkedin.com/in/lili-wang1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="..." height="30" width="40" /></a>
