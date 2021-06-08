@@ -6,10 +6,10 @@
 <!--
 - 🔭 I’m currently working on
 -->
-- 🌱  I’m currently learning Go and C#
-- 👯  I’m looking to collaborate on frontend frameworks
+- 🌱  I’m currently learning cloud computing and DevOps
+<!-- - 👯  I’m looking to collaborate on frontend frameworks
 - 🤔  I’m looking for a Junior Developer position
-- 📫  How to reach me: li.wang876@gmail.com
+- 📫  How to reach me: li.wang876@gmail.com -->
 <br><br><a href="https://linkedin.com/in/lili-wang1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="..." height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/monsi0510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="knoah" height="30" width="40" /></a>
 
@@ -49,6 +49,6 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+  <!-- <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> -->
   <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
   
